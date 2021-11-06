@@ -1,0 +1,22 @@
+{
+  "name": "component-lib-example",
+  "displayName": "ComponentLib Example",
+  "expo": {
+    "name": "component-lib-example",
+    "slug": "component-lib-example",
+    "description": "Example app for component-lib",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
