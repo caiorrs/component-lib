@@ -12,7 +12,8 @@
     "test": "jest",
     "storybook": "start-storybook -p 7007",
     "build-storybook": "build-storybook",
-    "prestorybook": "rnstl"
+    "prestorybook": "rnstl",
+    "build-static-webapp":"expo build:web"
   },
   "dependencies": {
     "expo": "^42.0.0",

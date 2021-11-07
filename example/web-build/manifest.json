@@ -1,0 +1,8 @@
+{
+  "description": "Example app for component-lib",
+  "display": "standalone",
+  "lang": "en",
+  "name": "component-lib-example",
+  "short_name": "component-lib-example",
+  "start_url": "/?utm_source=web_app_manifest"
+}
